@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  height: 80vh;
+}
+.wrapper {
+  border: solid 1px;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin: auto;
+}
+span {
+  border: 1px solid;
+  color: blue;
+  font-size: 20px;
+}
+h5 {
+  display: inline-block;
+  margin-left: 400px;
+}
+.btn:hover {
+  background-color: grey;
+}
+.btn {
+  padding: 10px;
+  color: blue;
+  width: 100px;
+  border-radius: 7px;
+  margin-top: 45px;
+  color: white;
+}
